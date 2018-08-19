@@ -1,0 +1,1 @@
+with CRUD to registration of client/ICO and bountyhunter.
